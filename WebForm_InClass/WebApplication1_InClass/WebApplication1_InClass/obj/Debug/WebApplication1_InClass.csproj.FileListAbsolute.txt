@@ -1,0 +1,8 @@
+C:\dev\ASC Code\web-prog1.2\WebApplication1_InClass\WebApplication1_InClass\bin\WebApplication1_InClass.dll.config
+C:\dev\ASC Code\web-prog1.2\WebApplication1_InClass\WebApplication1_InClass\bin\WebApplication1_InClass.dll
+C:\dev\ASC Code\web-prog1.2\WebApplication1_InClass\WebApplication1_InClass\bin\WebApplication1_InClass.pdb
+C:\dev\ASC Code\web-prog1.2\WebApplication1_InClass\WebApplication1_InClass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dev\ASC Code\web-prog1.2\WebApplication1_InClass\WebApplication1_InClass\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dev\ASC Code\web-prog1.2\WebApplication1_InClass\WebApplication1_InClass\obj\Debug\WebApplication1_InClass.csproj.CoreCompileInputs.cache
+C:\dev\ASC Code\web-prog1.2\WebApplication1_InClass\WebApplication1_InClass\obj\Debug\WebApplication1_InClass.dll
+C:\dev\ASC Code\web-prog1.2\WebApplication1_InClass\WebApplication1_InClass\obj\Debug\WebApplication1_InClass.pdb
